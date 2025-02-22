@@ -11,7 +11,7 @@ jobs: # los pasos que se van a realizar
     name: Update Profile README
 
     steps: # pasos a ejecutar
-      - uses: actions/checkout@v2.3.4 # es la maquina virtual de ubuntu que usa un checkout para acceder a tu repo y teniendo todos tus archivos para ejecutar lo que haga falta
+      - uses: actions/checkout@v4.2.2 # es la maquina virtual de ubuntu que usa un checkout para acceder a tu repo y teniendo todos tus archivos para ejecutar lo que haga falta
       
       - uses: Readme-Workflows/recent-activity@v2.4.1 # proviene de la seccion de marketplace que estan previamente construidas y tiene un archivo env que son variables de ambiente
         env: # variable de ambiente
