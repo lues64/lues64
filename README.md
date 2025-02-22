@@ -26,6 +26,16 @@ Además, actualmente trabajo como **camarero en un prestigioso restaurante en La
 🔹 Exploración de técnicas de **Data Science** aplicadas al sector financiero y corporativo.  
 
 ---
+
+## :zap: Actividades recientes
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
+
+
 <!-- 
 ## 📂 Proyectos Destacados
 🔹 [📊 Proyecto 1 - xxxxxx](#)  
