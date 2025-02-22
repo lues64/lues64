@@ -27,23 +27,16 @@ Además, actualmente trabajo como **camarero en un prestigioso restaurante en La
 
 ---
 
-## :zap: Actividades recientes
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
-
+## 👀 Actividades recientes
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!-- 
 ## 📂 Proyectos Destacados
 🔹 [📊 Proyecto 1 - xxxxxx](#)  
 🔹 [📂 Proyecto 2 - zzzzzz](#)  
 🔹 [📑 Proyecto 3 - Generación de Asientos Contables con Python](#)  
-
 (Pronto subiré más proyectos en mi repositorio 👀) -->
-
 ---
 
 ## 📫 Contacto
