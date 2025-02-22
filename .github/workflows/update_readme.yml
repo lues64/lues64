@@ -1,0 +1,18 @@
+name: Update README2 #nombre de la accion que voy a realizar.
+
+on:
+  schedule: #agendar el tiempo de actualizacion
+    - cron: '0 */12 * * *' # Cada 12 horas, en formato de tipo cron. dias,horas,minutos,seg,micro-seg
+  workflow_dispatch: # gracias a este desencadenante va a ejecutar el siguiente flujo
+
+jobs: # los pasos que se van a realizar
+  build: 
+    runs-on: ubuntu-latest # una mini maquina virtual con ubuntu que ejecutará todos los pasos
+    name: Update Profile README
+
+    steps: # pasos a ejecutar
+      - uses: actions/checkout@v2.3.4 # es la maquina virtual de ubuntu que usa un checkout para acceder a tu repo y teniendo todos tus archivos para ejecutar lo que haga falta
+      
+      - uses: Readme-Workflows/recent-activity@v2.4.1 # proviene de la seccion de marketplace que estan previamente construidas y tiene un archivo env que son variables de ambiente
+        env: # variable de ambiente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # se requiere una autenticación pero como la github actions la estamos ejecutando desde nuestra cuenta no hay que hacer nada mas 
