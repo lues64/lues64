@@ -29,14 +29,14 @@ Además, actualmente trabajo como **camarero en un prestigioso restaurante en La
 
 ## 👀 Actividades recientes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [lues64/curso_python_pip](https://github.com/lues64/curso_python_pip)<br>
-2. ⬆️ Pushed 2 commit(s) to [lues64/curso_python_pip](https://github.com/lues64/curso_python_pip)<br>
-3. 🎉 Merged PR [#1](https://github.com/lues64/curso_python_pip/pull/1) in [lues64/curso_python_pip](https://github.com/lues64/curso_python_pip)<br>
-4. 💪 Opened PR [#1](https://github.com/lues64/curso_python_pip/pull/1) in [lues64/curso_python_pip](https://github.com/lues64/curso_python_pip)<br>
-5. ⬆️ Pushed 1 commit(s) to [lues64/curso_python_pip](https://github.com/lues64/curso_python_pip)<br>
+1. ⬆️ Pushed 1 commit(s) to [lues64/lues64](https://github.com/lues64/lues64)<br>
+2. ⬆️ Pushed 1 commit(s) to [lues64/lues64](https://github.com/lues64/lues64)<br>
+3. ⬆️ Pushed 1 commit(s) to [lues64/lues64](https://github.com/lues64/lues64)<br>
+4. ⬆️ Pushed 1 commit(s) to [lues64/lues64](https://github.com/lues64/lues64)<br>
+5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 28th, 2025, 12:26:46 PM
+Last Updated: Saturday, March 1st, 2025, 1:10:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- 
